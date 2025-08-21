@@ -44,8 +44,8 @@ impostor-app/
 ├── android/                    # Proyecto Android generado por Capacitor
 ├── www/                       # Código fuente del juego (HTML, CSS, JS)
 │   ├── index.html
-│   ├── css/
-│   ├── js/
+│   ├── styles.css
+│   ├── script.js
 │   └── assets/
 ├── resources/                 # Recursos de la app (iconos, splash screens)
 │   └── icon.png
