@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Archivos temporales de Android Studio
+android/.gradle/
+android/.idea/
+android/app/build/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
